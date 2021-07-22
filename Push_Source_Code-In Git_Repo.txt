@@ -20,7 +20,7 @@ git init (To iniatlize git repository)
 git remote add origin github_repo_url (To add remote repo origin)
 git remote -v (To see the you have a push access in that repo)
 git add . (To add the entair files of that folder iin remote repo)
-git commit "Commit MSG" (To commit your code in that repo with your msg)
+git commit -m "Commit MSG" (To commit your code in that repo with your msg)
 git push -u origin master (To push your code in master barnch).
 
 
